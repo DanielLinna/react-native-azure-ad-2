@@ -15,7 +15,7 @@
   },
   "peerDependencies": {
     "react-native-get-random-values": "^1.7.0",
-    "react-native": "^0.69"
+    "react-native": "^0.68"
   },
   "keywords": [
     "AzureAD",
